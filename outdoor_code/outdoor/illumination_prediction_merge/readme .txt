@@ -1,0 +1,3 @@
+confidence_7.py生成七张图片对应的confidence和太阳位置
+merge.py生成7张图片对应的真实太阳位置，融合的太阳位置和各自的太阳位置
+estimate_illumination.py预测光照
